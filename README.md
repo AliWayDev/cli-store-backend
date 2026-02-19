@@ -10,3 +10,8 @@ Features:
 - Checkout
 - Order history
 - Persistent storage
+
+I have already worked on project like this but with JavaScript 
+
+example:
+https://github.com/AliWayDev/trash-todo/blob/main/client/controller/newsController.js
